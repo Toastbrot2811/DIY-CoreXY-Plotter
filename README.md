@@ -14,18 +14,31 @@ I startet with the toolhead, because it was the most complex part of the whole p
 
 So after alot of measuring and 3D-modeling, I had the first prototype of the Z-axis. 
 
-For recreation:
+Preperations to build the Z-axis:
 
 Use one of the shortest 8mm linear rods from the printer and cut a 146mm long piece from it with an angle grinder or a dremel, because of the hardened steel. For the threaded rod, you can use a regular saw, to cut off a ~87mm long piece. make sure to clean the threads on the cut. 
-To 3D-print the plastic parts, use PETG or ABS/ASA and at least a 0.6mm nozzle with a 0.35mm layer hight. For my build, I used the before mentioned printer settings on PETG-CF for the extra stiffness, but you don't have to. All M3-screws, that srew into the plastic use M3X4 heat set inserts in this project.
+To 3D-print the plastic parts for the whole project, use PETG or ABS/ASA and at least a 0.6mm nozzle with a 0.35mm layer hight. For my build, I used the before mentioned printer settings on PETG-CF for the extra stiffness, but you don't have to. All M3-screws, that srew into the plastic use M3X4 heat set inserts in this project.
 
 How to build the Z-axis:
 
 1. Print out all the Parts of the Z-axis
-2. Take the linear beraings from the original print head and press them into the base of the Z-axis. You can use the original grub screws if you want to fasten the bearings, but that was not necisary in my case.
+2. Take the linear bearings from the original print head and press them into the base of the Z-axis. You can use the original grub screws if you want to fasten the bearings, but that was not necisary in my case.
 3. Take the origninal X-axis limit swich and screw it into the Z-axis base with the original screws. The rear screw is currently very hard to reach, I may add an extra access hole in the future.
 4. Assemble the stepper motor and the short treaded rod, whith the included coupler and bolt the stepper motor with the threaded rod into the base with 4 M3X12 bolts.
 5. Use a soldering iron to melt M3X4 heat set inserts into all holes on the base, which have a 4mm diameter.
 6. Bolt the front support pillars into place with atleast 4 coutersunk M3X10 screws.
-7. Take the pencil holder and bolt two of the bearing blocks from the old print bed to it, with the inclued M4 bolts. Then use the heat set inserts and screw the pencil clamp onto the pencil holder with two M3X20 bolts.
-8. 
+7. Use two M3X16 and two M3X20 Bolts and screw them into the inserts next to the stepper just like in the picture.
+
+![20250321_141256](https://github.com/user-attachments/assets/8e72d66c-d7c0-473a-b5f3-790e9069d827)
+
+8. Take the pencil holder and bolt two of the bearing blocks from the old print bed to it, with the inclued M4 bolts. Then use the heat set inserts and screw the pencil clamp onto the pencil holder with two M3X20 bolts.
+9. Grab one of the two brass nuts of the Z-axis and push it into the big hole in the pencil holder and fasten ist with 4 M3X8 screws.
+10. Take the short linear rod and push it into the hole in the lower part of the Z-axis base. Then screw the pencil holder onto the threaded rod, until it hits the limit switch like in the next image.
+
+![20250321_141248](https://github.com/user-attachments/assets/3daab729-f141-4a44-bcb5-bf62483cd7d1)
+
+11. asdasd
+12. 
+
+
+
